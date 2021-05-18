@@ -1,0 +1,47 @@
+[
+    {
+        "title": "",
+        "text": ""
+    },
+    {
+        "title": "Pixels, pixels, pixels  🖼",
+        "text": ["Hi, I'm a computer. I see portraits as grids of pixels defined by Red, Green, and Blue (RGB) values.",
+                "👈 Check out this graph. With some instruction, I can cluster RGB values and extract 1 dominant color per image. The dominant colors in this image set are largely earth-tones, muted and dark.",
+                "There are numerous portraits (172, to be exact!) which are dominant in the grayscale. These form a straight line diagonally across the graph."],
+        "small": "🐁 Mouseover each point to explore the data."
+    },
+    {
+        "title": "Same data, new perspective 👀",
+        "text": ["I can also plot the data by Red and Blue values to obtain a different view. Both perspectives reveal a similar trend, although this graph looks more dispersed. This means there is more variability of dominant colors on the blue-red spectrum.", "🗿 The 172 portraits dominant in the grayscale stay put from the previous view!"],
+        "small": "🐁 Mouseover each point to explore the data."
+    },
+    {
+        "title": "Moving up from pixel values 🧠",
+        "text": ["I can repeatedly find patterns in an image's data using a deep neural net, and identify clusters of images that are similar in ways beyond a single color measure. As much as this might look like a Rorschach test, the absolute position of each cluster is arbitrary.", "🤓 Let me arrange it in a grid so it's easier to see..."],
+        "small": "🐁 Mouseover each point to explore the data."
+    },
+    {
+        "title": "Clustering by likeness 💪",
+        "text": ["...Voilà! In this grid are the 10 clusters that I found in the data. Above you will find one representative for each cluster. To me, members of each cluster resemble their leader. Do you think so too?", "💭 Since I am a machine, I don't know how these groups are alike in the real world. Can you think of names for them?"],
+        "small": "🕹 Hover over and click on each cluster representative to explore the visual."
+    },
+    {
+        "title": "From reality to latent space 🚀",
+        "text": ["While sorting all the data into sensible clusters, I took the highly-complex data and squashed it into a lower dimensional representation. This method also produces a 'latent space encoding' of all the portraits that I can freely explore.", "Now, I can produce new portraits that have not been seen before...", "...Although my interpolations will be deeply affected by any biases in the dataset 🥺"],
+        "small": "👈 Select two portraits to take a journey through the latent space."
+    },
+    {
+        "title": "The power of deep networks 🦾",
+        "text": ["I can also visualize new outputs using various controls. The sliders help us explore the landscape, but do not correspond neatly to parameters in the real world since I do not know what those are 🙃"],
+        "small": "👩‍🎨 To generate new portraits, [method here]."
+    },
+    {
+        "title": "Et tu, Artist? 🎨",
+        "text": ["See yourself as a portrait in the Met? Upload a photo and I'll try my best to make it happen!"],
+        "small": "📷 Turn on your camera to generate a portrait in your likeness."
+    },
+    {
+        "title": "",
+        "text": ""
+    }
+]
